@@ -572,6 +572,10 @@ ul.navbar-nav.ml-auto>li {
   align-items: center
 }
 
+.sply {
+  margin-right: 25px;
+}
+
 .all-progress-list .progress-list>div {
   width: 50%
 }
